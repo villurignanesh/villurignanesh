@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate AI researcher and engineer, constantly ex
 
 ## 🔬 Research & Publications
 - **PhD in Computer Engineering** (Stony Brook University) | **Research:** Scalable ML, Deep Learning, Reinforcement Learning, NLP
-- Published at **SSCI 2025, CCN 2024, CITDS 2024, SMACD 2024** – on topics like **LLMs, Semantic Classification, Speech-driven AI, and IoT optimization**.
+- Published at **CAI 2025, SSCI 2025, CCN 2024, CITDS 2024, SMACD 2024** – on topics like **LLMs, Semantic Classification, Speech-driven AI, and IoT optimization**.
 - Researching **SLU methodologies, reinforcement learning for team optimization, and knowledge graph-driven AI**.
 
 ## 🛠️ Tech Stack
